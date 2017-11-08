@@ -8,3 +8,13 @@ Este proyecto fue creado inicialmente para representar el Estadio General Pablo 
 Debido a las remodelaciones realizadas en el estadio entre los años 2015 y 2017, la estructura representada en el proyecto quedó desactualizada.
 
 Presentación: https://www.youtube.com/watch?v=I06GgGroTVc
+
+## Requerimientos
+El proyecto fue creado utilizando las siguientes versiones de Blender:
+
+- Blender 2.45
+- Blender 2.49b
+- Blender 2.63
+
+Aún así, es posible la compatibilidad con versiones más recientes.
+Estas y otras versiones de Blender pueden obtenerse de: http://download.blender.org/release/
