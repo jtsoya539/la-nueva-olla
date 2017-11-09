@@ -17,4 +17,5 @@ El proyecto fue creado utilizando las siguientes versiones de Blender:
 - Blender 2.63
 
 Aún así, es posible la compatibilidad con versiones más recientes.
+
 Estas y otras versiones de Blender pueden obtenerse de: http://download.blender.org/release/
