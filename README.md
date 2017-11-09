@@ -8,7 +8,7 @@ Este proyecto fue creado inicialmente para representar el Estadio General Pablo 
 
 Debido a las remodelaciones realizadas en el estadio entre los años 2015 y 2017, la estructura representada en el proyecto quedó desactualizada.
 
-Cualquier persona se encuentra autorizada a utilizar este trabajo sin ninguna restricción (Ver [Licencia](/LICENSE)).
+Se autoriza a cualquier persona a utilizar este trabajo sin restricción alguna (Ver [Licencia](/LICENSE)).
 
 Presentación: https://www.youtube.com/watch?v=I06GgGroTVc
 
