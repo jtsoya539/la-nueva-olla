@@ -1,4 +1,5 @@
 # [PAR] Asunción - Estadio General Pablo Rojas
+![general_pablo_rojas.blend](/logo.png)
 - Club Cerro Porteño
 - Estadio General Pablo Rojas
 - Asunción, Paraguay
